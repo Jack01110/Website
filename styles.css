@@ -1,0 +1,16 @@
+body {
+    background-color: rebeccapurple;
+}
+.box {
+    background-color: red;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+  }
+.box div {
+    width: 100px;
+    height: 100px;
+}
