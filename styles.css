@@ -2,15 +2,18 @@ body {
     background-color: rebeccapurple;
 }
 .box {
-    background-color: red;
-    display: flex;
+    background-color: white;
+    display: block;
     align-self: center;
     align-items: center;
     justify-content: center;
-    width: 100px;
-    height: 100px;
+    max-width: 40%;
+    max-height: 50%;
+    margin: auto;
+    margin-top: 20%;
+    border-style: dashed;
+    text-align: center;
   }
 .box div {
-    width: 100px;
-    height: 100px;
+    
 }
