@@ -1,0 +1,31 @@
+body {
+    background-color: thistle;
+    background-image: url("necosleep.gif");
+    background-size: 10%;
+}
+.box div{
+    background-color: rebeccapurple;
+    display: block;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    max-width: 40%;
+    max-height: 50%;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 20%;
+    border-style: dashed;
+    text-align: center;
+  }
+
+  .box2 div{
+    background-color: yellow;
+    display: block;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    border-style: dashed;
+    text-align: center;
+    margin:auto;
+  }
+
